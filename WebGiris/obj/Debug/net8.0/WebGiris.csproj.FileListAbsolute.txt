@@ -1,0 +1,14 @@
+C:\Users\Pendik\source\repos\WebC#\WebGiris\bin\Debug\net8.0\WebGiris.exe
+C:\Users\Pendik\source\repos\WebC#\WebGiris\bin\Debug\net8.0\WebGiris.deps.json
+C:\Users\Pendik\source\repos\WebC#\WebGiris\bin\Debug\net8.0\WebGiris.runtimeconfig.json
+C:\Users\Pendik\source\repos\WebC#\WebGiris\bin\Debug\net8.0\WebGiris.dll
+C:\Users\Pendik\source\repos\WebC#\WebGiris\bin\Debug\net8.0\WebGiris.pdb
+C:\Users\Pendik\source\repos\WebC#\WebGiris\obj\Debug\net8.0\WebGiris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pendik\source\repos\WebC#\WebGiris\obj\Debug\net8.0\WebGiris.AssemblyInfoInputs.cache
+C:\Users\Pendik\source\repos\WebC#\WebGiris\obj\Debug\net8.0\WebGiris.AssemblyInfo.cs
+C:\Users\Pendik\source\repos\WebC#\WebGiris\obj\Debug\net8.0\WebGiris.csproj.CoreCompileInputs.cache
+C:\Users\Pendik\source\repos\WebC#\WebGiris\obj\Debug\net8.0\WebGiris.dll
+C:\Users\Pendik\source\repos\WebC#\WebGiris\obj\Debug\net8.0\refint\WebGiris.dll
+C:\Users\Pendik\source\repos\WebC#\WebGiris\obj\Debug\net8.0\WebGiris.pdb
+C:\Users\Pendik\source\repos\WebC#\WebGiris\obj\Debug\net8.0\WebGiris.genruntimeconfig.cache
+C:\Users\Pendik\source\repos\WebC#\WebGiris\obj\Debug\net8.0\ref\WebGiris.dll
