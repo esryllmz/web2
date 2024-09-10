@@ -1,0 +1,14 @@
+C:\Users\Pendik\source\repos\kararmek\kararmek\bin\Debug\net8.0\kararmek.exe
+C:\Users\Pendik\source\repos\kararmek\kararmek\bin\Debug\net8.0\kararmek.deps.json
+C:\Users\Pendik\source\repos\kararmek\kararmek\bin\Debug\net8.0\kararmek.runtimeconfig.json
+C:\Users\Pendik\source\repos\kararmek\kararmek\bin\Debug\net8.0\kararmek.dll
+C:\Users\Pendik\source\repos\kararmek\kararmek\bin\Debug\net8.0\kararmek.pdb
+C:\Users\Pendik\source\repos\kararmek\kararmek\obj\Debug\net8.0\kararmek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pendik\source\repos\kararmek\kararmek\obj\Debug\net8.0\kararmek.AssemblyInfoInputs.cache
+C:\Users\Pendik\source\repos\kararmek\kararmek\obj\Debug\net8.0\kararmek.AssemblyInfo.cs
+C:\Users\Pendik\source\repos\kararmek\kararmek\obj\Debug\net8.0\kararmek.csproj.CoreCompileInputs.cache
+C:\Users\Pendik\source\repos\kararmek\kararmek\obj\Debug\net8.0\kararmek.dll
+C:\Users\Pendik\source\repos\kararmek\kararmek\obj\Debug\net8.0\refint\kararmek.dll
+C:\Users\Pendik\source\repos\kararmek\kararmek\obj\Debug\net8.0\kararmek.pdb
+C:\Users\Pendik\source\repos\kararmek\kararmek\obj\Debug\net8.0\kararmek.genruntimeconfig.cache
+C:\Users\Pendik\source\repos\kararmek\kararmek\obj\Debug\net8.0\ref\kararmek.dll
