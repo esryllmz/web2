@@ -1,0 +1,14 @@
+C:\Users\Pendik\source\repos\kararmek\fonk\bin\Debug\net8.0\fonk.exe
+C:\Users\Pendik\source\repos\kararmek\fonk\bin\Debug\net8.0\fonk.deps.json
+C:\Users\Pendik\source\repos\kararmek\fonk\bin\Debug\net8.0\fonk.runtimeconfig.json
+C:\Users\Pendik\source\repos\kararmek\fonk\bin\Debug\net8.0\fonk.dll
+C:\Users\Pendik\source\repos\kararmek\fonk\bin\Debug\net8.0\fonk.pdb
+C:\Users\Pendik\source\repos\kararmek\fonk\obj\Debug\net8.0\fonk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pendik\source\repos\kararmek\fonk\obj\Debug\net8.0\fonk.AssemblyInfoInputs.cache
+C:\Users\Pendik\source\repos\kararmek\fonk\obj\Debug\net8.0\fonk.AssemblyInfo.cs
+C:\Users\Pendik\source\repos\kararmek\fonk\obj\Debug\net8.0\fonk.csproj.CoreCompileInputs.cache
+C:\Users\Pendik\source\repos\kararmek\fonk\obj\Debug\net8.0\fonk.dll
+C:\Users\Pendik\source\repos\kararmek\fonk\obj\Debug\net8.0\refint\fonk.dll
+C:\Users\Pendik\source\repos\kararmek\fonk\obj\Debug\net8.0\fonk.pdb
+C:\Users\Pendik\source\repos\kararmek\fonk\obj\Debug\net8.0\fonk.genruntimeconfig.cache
+C:\Users\Pendik\source\repos\kararmek\fonk\obj\Debug\net8.0\ref\fonk.dll
