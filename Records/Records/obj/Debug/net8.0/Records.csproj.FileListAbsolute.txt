@@ -1,0 +1,14 @@
+C:\Users\Pendik\source\repos\kararmek\Records\Records\bin\Debug\net8.0\Records.exe
+C:\Users\Pendik\source\repos\kararmek\Records\Records\bin\Debug\net8.0\Records.deps.json
+C:\Users\Pendik\source\repos\kararmek\Records\Records\bin\Debug\net8.0\Records.runtimeconfig.json
+C:\Users\Pendik\source\repos\kararmek\Records\Records\bin\Debug\net8.0\Records.dll
+C:\Users\Pendik\source\repos\kararmek\Records\Records\bin\Debug\net8.0\Records.pdb
+C:\Users\Pendik\source\repos\kararmek\Records\Records\obj\Debug\net8.0\Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pendik\source\repos\kararmek\Records\Records\obj\Debug\net8.0\Records.AssemblyInfoInputs.cache
+C:\Users\Pendik\source\repos\kararmek\Records\Records\obj\Debug\net8.0\Records.AssemblyInfo.cs
+C:\Users\Pendik\source\repos\kararmek\Records\Records\obj\Debug\net8.0\Records.csproj.CoreCompileInputs.cache
+C:\Users\Pendik\source\repos\kararmek\Records\Records\obj\Debug\net8.0\Records.dll
+C:\Users\Pendik\source\repos\kararmek\Records\Records\obj\Debug\net8.0\refint\Records.dll
+C:\Users\Pendik\source\repos\kararmek\Records\Records\obj\Debug\net8.0\Records.pdb
+C:\Users\Pendik\source\repos\kararmek\Records\Records\obj\Debug\net8.0\Records.genruntimeconfig.cache
+C:\Users\Pendik\source\repos\kararmek\Records\Records\obj\Debug\net8.0\ref\Records.dll
