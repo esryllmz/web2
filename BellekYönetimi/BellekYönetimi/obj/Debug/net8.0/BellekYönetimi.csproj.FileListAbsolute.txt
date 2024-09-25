@@ -1,0 +1,14 @@
+C:\Users\Pendik\source\repos\BellekYönetimi\BellekYönetimi\obj\Debug\net8.0\BellekYönetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pendik\source\repos\BellekYönetimi\BellekYönetimi\obj\Debug\net8.0\BellekYönetimi.AssemblyInfoInputs.cache
+C:\Users\Pendik\source\repos\BellekYönetimi\BellekYönetimi\obj\Debug\net8.0\BellekYönetimi.AssemblyInfo.cs
+C:\Users\Pendik\source\repos\BellekYönetimi\BellekYönetimi\obj\Debug\net8.0\BellekYönetimi.csproj.CoreCompileInputs.cache
+C:\Users\Pendik\source\repos\BellekYönetimi\BellekYönetimi\bin\Debug\net8.0\BellekYönetimi.exe
+C:\Users\Pendik\source\repos\BellekYönetimi\BellekYönetimi\bin\Debug\net8.0\BellekYönetimi.deps.json
+C:\Users\Pendik\source\repos\BellekYönetimi\BellekYönetimi\bin\Debug\net8.0\BellekYönetimi.runtimeconfig.json
+C:\Users\Pendik\source\repos\BellekYönetimi\BellekYönetimi\bin\Debug\net8.0\BellekYönetimi.dll
+C:\Users\Pendik\source\repos\BellekYönetimi\BellekYönetimi\bin\Debug\net8.0\BellekYönetimi.pdb
+C:\Users\Pendik\source\repos\BellekYönetimi\BellekYönetimi\obj\Debug\net8.0\BellekYönetimi.dll
+C:\Users\Pendik\source\repos\BellekYönetimi\BellekYönetimi\obj\Debug\net8.0\refint\BellekYönetimi.dll
+C:\Users\Pendik\source\repos\BellekYönetimi\BellekYönetimi\obj\Debug\net8.0\BellekYönetimi.pdb
+C:\Users\Pendik\source\repos\BellekYönetimi\BellekYönetimi\obj\Debug\net8.0\BellekYönetimi.genruntimeconfig.cache
+C:\Users\Pendik\source\repos\BellekYönetimi\BellekYönetimi\obj\Debug\net8.0\ref\BellekYönetimi.dll
